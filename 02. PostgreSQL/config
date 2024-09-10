@@ -1,2 +1,6 @@
-pass: toor
-port 5432
+Server: localhost
+Database: postgres
+Port: 5432
+Username: postgres
+Password for user postgres: toor
+psql (16.4)
